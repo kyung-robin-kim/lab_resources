@@ -26,6 +26,6 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 
 ## LiteratureReview
 - [ResearchRabbit](https://www.researchrabbit.ai/): AI-based literature review assistant for gap-filling knowledge.
-- [Basic Paper Structure](http://www.columbia.edu/cu/biology/ug/research/paper.html): The most bare-bones of a scientific paper.
+- [Basic Paper Structure](http://www.columbia.edu/cu/biology/ug/research/paper.html): The bare-bones of a scientific paper.
 - [Discussion on Writing](https://www.science.org/content/article/how-write-research-paper): Nuanced discussion on research papers.
 - [How to Read](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf): Paper on how to read a paper.
