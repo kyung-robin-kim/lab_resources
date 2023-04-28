@@ -1,12 +1,12 @@
 # Lab Resources
 A living document for tips, tricks, and resources for the HydroSense lab group. Please add and edit as desired, and follow citation protocols if/as requested.
 
-* [Coding]
-* [Learning]
-* [Literature Review & Writing]
+* [Coding](#Coding)
+* [Learning](#Learning)
+* [Literature Review & Writing](#LitReview)
 
 #Coding
-- [Earth Data Science Courses](https://www.earthdatascience.org/): An introductory series of how-to's for installing and executing geospatial codes in python - Github @ https://github.com/earthlab
+- [Earth Data Science Courses](https://www.earthdatascience.org/): Introductory how-to's to install and execute geospatial codes in python - Github @ https://github.com/earthlab
 - [Official GEE Tutorial](https://developers.google.com/earth-engine/guides): The official GEE tutorial
 - [Community GEE Tutorials](https://developers.google.com/earth-engine/tutorials/community/smap-soil-moisture): GEE tutorials for a variety of applications (e.g., SMAP tutorial by former lab member, Manh-Hung Le)
 - [GEE for Ecology Tutorial](https://ecology.colostate.edu/google-earth-engine/): GEE tutorial for ecological applications.
