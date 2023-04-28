@@ -3,9 +3,9 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 
 * [Coding](#Coding)
 * [Learning](#Learning)
-* [Literature Review & Writing](#LitReview)
+* [Literature Review & Writing](#LiteratureReview&Writing)
 
-#Coding
+## Coding
 - [Earth Data Science Courses](https://www.earthdatascience.org/): Introductory how-to's to install and execute geospatial codes in python - Github @ https://github.com/earthlab
 - [Official GEE Tutorial](https://developers.google.com/earth-engine/guides): The official GEE tutorial
 - [Community GEE Tutorials](https://developers.google.com/earth-engine/tutorials/community/smap-soil-moisture): GEE tutorials for a variety of applications (e.g., SMAP tutorial by former lab member, Manh-Hung Le)
@@ -14,7 +14,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Misc. R Codes & Packages](https://github.com/javedali99/r-resources-for-data-science): R Compilation by Javed Ali from University of Central Florida.
 - [Geospatial Data Course in Python](https://github.com/UW-GDA/gda_course_2021): Online course developed by David Shean et al. from UWashington.
 
-#Learning
+## Learning
 - [NASA ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset): A series of workshops from NASA's Applied Sciences branch.
 - [ChatGPT](https://chat.openai.com/): Use at your own risk (errors and biases exist), but helpful assistant for self-learning and debugging.
 - [Intro. GIS](https://www.e-education.psu.edu/natureofgeoinfo/c1.html): Penn State online course
@@ -24,7 +24,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [ML UVA Course](https://www.youtube.com/watch?v=04_hEsTFeUg): Online course recorded by former lab member, Hyunglok Kim.
 - [Data Visualization](https://sciviscolor.org/): Online guide and tutorials on data visualization from UT-Austin.
 
-#Literature Review & Writing
+## Literature Review & Writing
 - [ResearchRabbit](https://www.researchrabbit.ai/): AI-based literature review assistant for gap-filling knowledge.
 - [Basic Paper Structure](http://www.columbia.edu/cu/biology/ug/research/paper.html): The most bare-bones of a scientific paper.
 - [Discussion on Writing](https://www.science.org/content/article/how-write-research-paper): Nuanced discussion on research papers.
