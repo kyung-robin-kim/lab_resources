@@ -18,6 +18,8 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [UVA Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/): Website to sign up for workshops and get help on how to access Rivanna.
 - [NASA ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset): A series of workshops from NASA's Applied Sciences branch.
 - [ChatGPT](https://chat.openai.com/): Use at your own risk (errors and biases exist), but helpful assistant for self-learning and debugging.
+- [ResearchRabbit](https://www.researchrabbit.ai/): AI-based literature review assistant for gap-filling knowledge.
+
 - [Intro. GIS](https://www.e-education.psu.edu/natureofgeoinfo/c1.html): Penn State online course
 - [Intro. Stats](https://online.stat.psu.edu/stat501/): Penn State online course
 - [Timeseries & Forecasting](https://otexts.com/fpp2/): Online textbook by Monash U professors.
@@ -26,7 +28,6 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Data Visualization](https://sciviscolor.org/): Online guide and tutorials on data visualization from UT-Austin.
 
 ## Writing
-- [ResearchRabbit](https://www.researchrabbit.ai/): AI-based literature review assistant for gap-filling knowledge.
 - [Basic Paper Structure](http://www.columbia.edu/cu/biology/ug/research/paper.html): The bare-bones of a scientific paper.
 - [Discussion on Writing](https://www.science.org/content/article/how-write-research-paper): Nuanced discussion on research papers.
 - [How to Read](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf): Paper on how to read a paper.
