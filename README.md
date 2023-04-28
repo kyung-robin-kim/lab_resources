@@ -3,7 +3,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 
 * [Coding](#Coding)
 * [Learning](#Learning)
-* [Literature Review & Writing](#LiteratureReview)
+* [Writing](#Writing)
 
 ## Coding
 - [Earth Data Science Courses](https://www.earthdatascience.org/): Introductory how-to's to install and execute geospatial codes in python - Github @ https://github.com/earthlab
@@ -25,7 +25,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [ML UVA Course](https://www.youtube.com/watch?v=04_hEsTFeUg): Online course recorded by former lab member, Hyunglok Kim.
 - [Data Visualization](https://sciviscolor.org/): Online guide and tutorials on data visualization from UT-Austin.
 
-## LiteratureReview
+## Writing
 - [ResearchRabbit](https://www.researchrabbit.ai/): AI-based literature review assistant for gap-filling knowledge.
 - [Basic Paper Structure](http://www.columbia.edu/cu/biology/ug/research/paper.html): The bare-bones of a scientific paper.
 - [Discussion on Writing](https://www.science.org/content/article/how-write-research-paper): Nuanced discussion on research papers.
