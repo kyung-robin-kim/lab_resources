@@ -29,3 +29,6 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Basic Paper Structure](http://www.columbia.edu/cu/biology/ug/research/paper.html): The bare-bones of a scientific paper.
 - [Discussion on Writing](https://www.science.org/content/article/how-write-research-paper): Nuanced discussion on research papers.
 - [How to Read](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf): Paper on how to read a paper.
+
+## Supercomputing
+- [UVA Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/): Website to sign up for workshops and get help on how to access Rivanna.
