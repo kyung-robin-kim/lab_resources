@@ -15,6 +15,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Geospatial Data Course in Python](https://github.com/UW-GDA/gda_course_2021): Online course developed by David Shean et al. from UWashington.
 
 ## Learning
+- [UVA Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/): Website to sign up for workshops and get help on how to access Rivanna.
 - [NASA ARSET](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset): A series of workshops from NASA's Applied Sciences branch.
 - [ChatGPT](https://chat.openai.com/): Use at your own risk (errors and biases exist), but helpful assistant for self-learning and debugging.
 - [Intro. GIS](https://www.e-education.psu.edu/natureofgeoinfo/c1.html): Penn State online course
@@ -30,5 +31,4 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Discussion on Writing](https://www.science.org/content/article/how-write-research-paper): Nuanced discussion on research papers.
 - [How to Read](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf): Paper on how to read a paper.
 
-## Supercomputing
-- [UVA Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/): Website to sign up for workshops and get help on how to access Rivanna.
+
