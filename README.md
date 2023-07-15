@@ -6,6 +6,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 * [Writing](#Writing)
 
 ## Coding
+- [Carpentry Workshops (https://carpentries.org/community-lessons/)]: Carpentries lessons! This [course](https://carpentries-incubator.github.io/geospatial-python/) presented at the 2023 IEEE GRSS-USC MHI Summer School by Ryan Avery and Chuck Daniels is highly recommended.
 - [Earth Data Science Courses](https://www.earthdatascience.org/): Introductory how-to's to install and execute geospatial codes in python - Github @ https://github.com/earthlab
 - [Official GEE Tutorial](https://developers.google.com/earth-engine/guides): The official GEE tutorial
 - [Community GEE Tutorials](https://developers.google.com/earth-engine/tutorials/community/smap-soil-moisture): GEE tutorials for a variety of applications (e.g., SMAP tutorial by former lab member, Manh-Hung Le)
@@ -13,6 +14,7 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 - [Misc. Python Codes & Packages](https://github.com/javedali99/python-resources-for-earth-sciences): Python Compilation by Javed Ali from University of Central Florida.
 - [Misc. R Codes & Packages](https://github.com/javedali99/r-resources-for-data-science): R Compilation by Javed Ali from University of Central Florida.
 - [Geospatial Data Course in Python](https://github.com/UW-GDA/gda_course_2021): Online course developed by David Shean et al. from UWashington.
+
 
 ## Learning
 - [UVA Rivanna](https://www.rc.virginia.edu/userinfo/rivanna/overview/): Website to sign up for workshops and get help on how to access Rivanna.
