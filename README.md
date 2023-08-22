@@ -6,7 +6,8 @@ A living document for tips, tricks, and resources for the HydroSense lab group. 
 * [Writing](#Writing)
 
 ## Coding
-- [Open Geospatial Solutions](https://github.com/opengeos): Open source packages developed by Qiusheng Wu et al. Many of his tutorials are likely cross-linked with other resources!
+-  [Open Geospatial Solutions](https://github.com/opengeos): Open source packages developed by Qiusheng Wu et al. Many of his tutorials are likely cross-linked with other resources!
+-  [ML Tutorial from GRSS 2023](https://github.com/gtsagkatakis/GRSS2023_Classification_Denoising_tutorial): Slides and JupyterNotebooks created by George Tsagkatakis, taught at GRSS 2023 Summer School.
 - [Carpentry Workshops](https://carpentries.org/community-lessons/): Carpentries lessons! This [course](https://carpentries-incubator.github.io/geospatial-python/) presented at the 2023 IEEE GRSS-USC MHI Summer School by Ryan Avery and Chuck Daniels is highly recommended.
 - [Earth Data Science Courses](https://www.earthdatascience.org/): Introductory how-to's to install and execute geospatial codes in python - [Github](https://github.com/earthlab)
 - [Official GEE Tutorial](https://developers.google.com/earth-engine/guides): The official GEE tutorial
